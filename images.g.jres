@@ -1,0 +1,27 @@
+{
+    "u42Rhwj~b05sdY(c]zF$": {
+        "data": "hwQQAA8AAACZmZmZmZmZCZmZmZmZmZkJmZmZmZmZmQmZmZmZmZmZCZmZmZmZmZkJmZmZmZmZmQmZmZmZmZmZCZmZmZmZmZkJmZmZmZmZmQmZmZmZmZmZCZmZmZmZmZkJmZmZmZmZmQmZmZmZmZmZCZmZmZmZmZkJmZmZmZmZmQmZmZmZmZmZCQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "bod2"
+    },
+    "image2": {
+        "data": "hwQQAA8AAAAzMzMzMzMzAzMzMzMzMzMDMzMzMzMzMwMzMzMzMzMzAzMzMzMzMzMDMzMzMzMzMwMzMzMzMzMzAzMzMzMzMzMDMzMzMzMzMwMzMzMzMzMzAzMzMzMzMzMDMzMzMzMzMwMzMzMzMzMzAzMzMzMzMzMDMzMzMzMzMwMzMzMzMzMzAw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "bod1"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAC7RAAAAAAAu11NAAAAALsjU00AAAC7XSJSTQAAu11XI10EALA9MlVV1QS7SyUiVVfVBEu7NTJVVUUAS7RVVSNTTQBLtFRXIlJNALBES1UjU00AAEvkVFXVBAAAsETuVd0EAAAAS+Te7QAAAACw5O5OAAAAAADu7gQAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "food"
+    },
+    ";;9l?`-UQ}fh^nT*@gN": {
+        "data": "hwQQAA8AAAAzMzMzMzMzAzMzMzMzMzMDMzMzMzMzMwMzMzMzMzMzAzMzMzMzMzMDMzMzMzMzMwMzMzMzMzMzAzMzMzMzMzMDMzMzMzMzMwMzMzMzMzMzAzMzMzMzMzMDMzMzMzMzMwMzMzMzMzMzAzMzMzMzMzMDMzMzMzMzMwMzMzMzMzMzAw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "bod3"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
